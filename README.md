@@ -1,0 +1,2 @@
+# Simon-Game
+I developed a Simon game using HTML, CSS, and JavaScript. The game challenges players to repeat a sequence of tones and colors in an increasingly complex pattern. The game includes a circular console with four large colored buttons, each of which plays a specific tone when pressed. I utilized my skills in HTML, CSS, and JavaScript to create an engaging and intuitive user experience. This project showcases my ability to create interactive applications using web technologies.
